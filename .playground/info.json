@@ -1,0 +1,6 @@
+{"a":"python","b":"python sandbox project","c":"PYTHON"}
+likes = 43 
+likes = 71 
+likes = 28  
+print(likes)
+
